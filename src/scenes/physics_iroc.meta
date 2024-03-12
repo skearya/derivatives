@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show elements",
+      "targetTime": 1.590651910561605
+    },
+    {
+      "name": "drop ball",
+      "targetTime": 4.031140131947896
+    },
+    {
+      "name": "show graph",
+      "targetTime": 18.147911501852015
+    },
+    {
+      "name": "drop ball 2",
+      "targetTime": 20.647911501852015
+    },
+    {
+      "name": "show side view",
+      "targetTime": 23.647911501852164
+    },
+    {
+      "name": "show A",
+      "targetTime": 25.782502375119883
+    },
+    {
+      "name": "show B",
+      "targetTime": 28.369446472370154
+    },
+    {
+      "name": "slope + deltas",
+      "targetTime": 29.369446472370154
+    },
+    {
+      "name": "approach A",
+      "targetTime": 33.735031365000225
+    },
+    {
+      "name": "hide components",
+      "targetTime": 40.57521636148085
+    },
+    {
+      "name": "show everything",
+      "targetTime": 42.57521636148085
+    },
+    {
+      "name": "approach A 2",
+      "targetTime": 45.14621961142604
+    },
+    {
+      "name": "hide components 2",
+      "targetTime": 49.69189537213423
+    },
+    {
+      "name": "show everything 2",
+      "targetTime": 51.69189537213423
+    },
+    {
+      "name": "approach A 3",
+      "targetTime": 54.82956685477095
+    },
+    {
+      "name": "hide components 3",
+      "targetTime": 58.82956685477095
+    },
+    {
+      "name": "show ball",
+      "targetTime": 60.82956685477095
+    },
+    {
+      "name": "show stuff",
+      "targetTime": 63.82956685477095
+    },
+    {
+      "name": "drop ball 3",
+      "targetTime": 67.05062993598976
+    },
+    {
+      "name": "end",
+      "targetTime": 70.05062993598959
+    }
+  ],
+  "seed": 685440525
+}

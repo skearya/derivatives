@@ -1,0 +1,82 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show grid",
+      "targetTime": 0.903059825281642
+    },
+    {
+      "name": "show points",
+      "targetTime": 6.88691857984268
+    },
+    {
+      "name": "draw X",
+      "targetTime": 11.449535389785984
+    },
+    {
+      "name": "draw Y",
+      "targetTime": 15.720164834728935
+    },
+    {
+      "name": "show note",
+      "targetTime": 18.33552693011412
+    },
+    {
+      "name": "draw delta labels",
+      "targetTime": 22.9233675511482
+    },
+    {
+      "name": "hide note",
+      "targetTime": 26.586943229173613
+    },
+    {
+      "name": "show side view",
+      "targetTime": 29.55622434132092
+    },
+    {
+      "name": "pink highlighter",
+      "targetTime": 32.39565041218482
+    },
+    {
+      "name": "yellow highlighter",
+      "targetTime": 35.48390590883731
+    },
+    {
+      "name": "roc formula",
+      "targetTime": 39.181090979497135
+    },
+    {
+      "name": "hide highlighters",
+      "targetTime": 41.68117942808216
+    },
+    {
+      "name": "show slope",
+      "targetTime": 42.68117942808216
+    },
+    {
+      "name": "hide definition view",
+      "targetTime": 43.68117942808216
+    },
+    {
+      "name": "move p2",
+      "targetTime": 58.722538312549034
+    },
+    {
+      "name": "move p1",
+      "targetTime": 68.17949364959003
+    },
+    {
+      "name": "move p2 2",
+      "targetTime": 70.17949364959003
+    },
+    {
+      "name": "move points",
+      "targetTime": 71.17949364959003
+    },
+    {
+      "name": "end",
+      "targetTime": 80.18948608583457
+    }
+  ],
+  "seed": 1240764750
+}

@@ -1,0 +1,126 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show grid",
+      "targetTime": 4.11500285330078
+    },
+    {
+      "name": "show A",
+      "targetTime": 8.99425428319477
+    },
+    {
+      "name": "show possible slope",
+      "targetTime": 10.648965517002324
+    },
+    {
+      "name": "hide possible slope",
+      "targetTime": 14.620466008419765
+    },
+    {
+      "name": "show B",
+      "targetTime": 16.945192529007976
+    },
+    {
+      "name": "draw deltas",
+      "targetTime": 20.406461871654916
+    },
+    {
+      "name": "draw slope",
+      "targetTime": 22.406461871654916
+    },
+    {
+      "name": "show side view",
+      "targetTime": 24.406461871654916
+    },
+    {
+      "name": "approach A",
+      "targetTime": 28.35482099518417
+    },
+    {
+      "name": "show possible slope 2",
+      "targetTime": 34.35482099518417
+    },
+    {
+      "name": "hide possible slope 2",
+      "targetTime": 36.35482099518417
+    },
+    {
+      "name": "distance 0",
+      "targetTime": 40.29644056449972
+    },
+    {
+      "name": "show side note",
+      "targetTime": 54.09586588061031
+    },
+    {
+      "name": "hide side note",
+      "targetTime": 61.33818131702618
+    },
+    {
+      "name": "hide stuff",
+      "targetTime": 62.33818131702618
+    },
+    {
+      "name": "show stuff",
+      "targetTime": 65.33818131702617
+    },
+    {
+      "name": "show side view 2",
+      "targetTime": 67.33818131702617
+    },
+    {
+      "name": "approach A 2",
+      "targetTime": 69.33818131702617
+    },
+    {
+      "name": "show possible slope 3",
+      "targetTime": 80.40595957363988
+    },
+    {
+      "name": "hide possible slope 3",
+      "targetTime": 81.96855907829803
+    },
+    {
+      "name": "hide stuff 2",
+      "targetTime": 84.61287178991654
+    },
+    {
+      "name": "show A 2",
+      "targetTime": 87.61287178991654
+    },
+    {
+      "name": "show possible slope 4",
+      "targetTime": 90.40785080078383
+    },
+    {
+      "name": "hide possible slope 4",
+      "targetTime": 92.73371020176391
+    },
+    {
+      "name": "show stuff 2",
+      "targetTime": 93.73371020176391
+    },
+    {
+      "name": "show side view 3",
+      "targetTime": 95.73371020176391
+    },
+    {
+      "name": "approach A 3",
+      "targetTime": 97.73371020176391
+    },
+    {
+      "name": "show possible slope 5",
+      "targetTime": 103.73371020176391
+    },
+    {
+      "name": "hide possible slope 5",
+      "targetTime": 105.73371020176391
+    },
+    {
+      "name": "end",
+      "targetTime": 107.2142428069126
+    }
+  ],
+  "seed": 2071056116
+}

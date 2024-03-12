@@ -1,0 +1,70 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show grid",
+      "targetTime": 1.6750790769185535
+    },
+    {
+      "name": "show points",
+      "targetTime": 8.13942960856722
+    },
+    {
+      "name": "draw deltas",
+      "targetTime": 11.087337061839612
+    },
+    {
+      "name": "draw delta labels",
+      "targetTime": 13.087337061839612
+    },
+    {
+      "name": "draw slope",
+      "targetTime": 17.83460577384759
+    },
+    {
+      "name": "side note",
+      "targetTime": 26.619532752584664
+    },
+    {
+      "name": "hide side note",
+      "targetTime": 30.014014755656948
+    },
+    {
+      "name": "show side view",
+      "targetTime": 31.235021576374216
+    },
+    {
+      "name": "move p2",
+      "targetTime": 35.952956822285984
+    },
+    {
+      "name": "move p2 2",
+      "targetTime": 43.5784007609559
+    },
+    {
+      "name": "move p2 3",
+      "targetTime": 45.5784007609559
+    },
+    {
+      "name": "hide components",
+      "targetTime": 48.34828432331802
+    },
+    {
+      "name": "move camera",
+      "targetTime": 49.34828432331802
+    },
+    {
+      "name": "fade in stuff",
+      "targetTime": 52.34828432331802
+    },
+    {
+      "name": "move p1",
+      "targetTime": 57.56165829097427
+    },
+    {
+      "name": "end",
+      "targetTime": 59.56165829097427
+    }
+  ],
+  "seed": 3406883073
+}

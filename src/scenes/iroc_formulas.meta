@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show formula",
+      "targetTime": 0
+    },
+    {
+      "name": "show formula 2",
+      "targetTime": 8.862047345349252
+    },
+    {
+      "name": "transform 1",
+      "targetTime": 12.817548085745965
+    },
+    {
+      "name": "transform 2",
+      "targetTime": 21.6736665350605
+    },
+    {
+      "name": "text",
+      "targetTime": 24.3954735401262
+    },
+    {
+      "name": "change text",
+      "targetTime": 26.3954735401262
+    },
+    {
+      "name": "end",
+      "targetTime": 29.394728372200497
+    }
+  ],
+  "seed": 4138986410
+}

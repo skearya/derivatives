@@ -1,0 +1,110 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show elements",
+      "targetTime": 0.9033188163457673
+    },
+    {
+      "name": "drop ball",
+      "targetTime": 5.673234888770211
+    },
+    {
+      "name": "show graph",
+      "targetTime": 14.202220810711278
+    },
+    {
+      "name": "drop ball 3",
+      "targetTime": 16.779642604293326
+    },
+    {
+      "name": "drop ball linear",
+      "targetTime": 30.915414246975153
+    },
+    {
+      "name": "show cursors",
+      "targetTime": 36.558459954984365
+    },
+    {
+      "name": "move 1",
+      "targetTime": 43.03491463185122
+    },
+    {
+      "name": "move 2",
+      "targetTime": 46.64170902855318
+    },
+    {
+      "name": "reset",
+      "targetTime": 48.72968280489495
+    },
+    {
+      "name": "reshow ball view",
+      "targetTime": 50.72968280489495
+    },
+    {
+      "name": "drop ball 5",
+      "targetTime": 51.72968280489495
+    },
+    {
+      "name": "show cursors 2",
+      "targetTime": 54.72968280489478
+    },
+    {
+      "name": "move 3",
+      "targetTime": 60.59248759848289
+    },
+    {
+      "name": "move 4",
+      "targetTime": 63.443398302554144
+    },
+    {
+      "name": "reset 2",
+      "targetTime": 65.81393474812413
+    },
+    {
+      "name": "reshow ball view 2",
+      "targetTime": 67.81393474812413
+    },
+    {
+      "name": "show cursors 3",
+      "targetTime": 68.81393474812413
+    },
+    {
+      "name": "move 5",
+      "targetTime": 72.81393474812413
+    },
+    {
+      "name": "move 6",
+      "targetTime": 73.81393474812413
+    },
+    {
+      "name": "reset 3",
+      "targetTime": 75.20983810325394
+    },
+    {
+      "name": "drop ball 6",
+      "targetTime": 78.5954998462083
+    },
+    {
+      "name": "show cursors 4",
+      "targetTime": 81.69969397117255
+    },
+    {
+      "name": "move 7",
+      "targetTime": 85.69969397117255
+    },
+    {
+      "name": "move 8",
+      "targetTime": 86.69969397117255
+    },
+    {
+      "name": "rate of change",
+      "targetTime": 89.23100508049525
+    },
+    {
+      "name": "end",
+      "targetTime": 92.7673710600586
+    }
+  ],
+  "seed": 33820884
+}
